@@ -1,2 +1,2 @@
 # recorder
-desktop application for recording audios
+ App desktop - Gravador de áudio criado com o framework Electron
